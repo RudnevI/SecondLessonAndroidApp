@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsLifecycle</string>
+    <string name="nav_second_activity">GO TO SECOND ACTIVITY</string>
+    <string name="nav_main_activity">GO TO MAIN ACTIVITY</string>
+    <string name="nav_lifecycle">GO TO LIFECYCLE EXAMPLE</string>
+    <string name="sign_up_title">Sign Up</string>
+</resources>
